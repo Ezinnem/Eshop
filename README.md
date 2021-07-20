@@ -1,6 +1,6 @@
 # E-shop
 
-  An Online shop platform for both sellers and buyers.
+  An Online shop platform for both the sellers and buyers.
 
 ## Features
 
