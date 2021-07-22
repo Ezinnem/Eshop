@@ -9,4 +9,4 @@
 3. User can register/sign up.
 4. User can sign-in/ log in.
 5. Admin user can add product.
-6.
+6. User can add products to Cart
