@@ -5,8 +5,9 @@
 ## Features
 
 1. User can view the products as well as their prices.
-2. User can rate items.
-3. User can register/sign up.
-4. User can sign-in/ log in.
-5. Admin user can add product.
-6. User can add products to Cart
+2. User can add products to Cart.
+3. User can rate items.
+4. User can register/sign up.
+5. User can sign-in/ log in.
+6. Admin user can add product.
+
