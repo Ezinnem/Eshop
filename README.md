@@ -4,7 +4,7 @@
 
 ## Features
 
-1. User can view the products as well as their prices.
+1. User can view the products and their prices.
 2. User can add products to Cart.
 3. User can rate/review products.
 4. User can register/sign up.
