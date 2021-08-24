@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "An Online shop platform for both the sellers and buyers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezinnem/Eshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ezinnem/Eshop/issues"
+  },
+  "homepage": "https://github.com/Ezinnem/Eshop#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
